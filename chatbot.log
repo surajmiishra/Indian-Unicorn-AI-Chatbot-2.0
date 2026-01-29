@@ -1,0 +1,13 @@
+2026-01-29 20:39:24,283 [ERROR] Failed to load data: 'utf-8' codec can't decode byte 0xa0 in position 11583: invalid start byte
+2026-01-29 20:41:58,968 [WARNING] UTF-8 decode failed. Retrying with Latin-1 encoding...
+2026-01-29 20:41:58,984 [INFO] Loaded 118 records from tracxn.csv (Latin-1)
+2026-01-29 20:42:37,216 [INFO] Query: What does Razorpay do? Bot Here is the information I found | Latency: 36.30ms | Clarification: False
+2026-01-29 20:43:04,378 [INFO] Query: Tell me about fintech unicorns. Bot Here is the information I found | Latency: 34.26ms | Clarification: False
+2026-01-29 20:43:27,960 [INFO] Query: Which of these are based in Bangalore? Bot Based on the list, the companies located in Bengaluru are | Latency: 0.00ms | Clarification: False
+2026-01-29 20:43:38,406 [INFO] Query: Which company is best to collaborate with? Bot Could you verify which specific sector or collaboration type you are interested in? e.g., Technology partnership, Supply chain, Payments | Latency: 15.87ms | Clarification: True
+2026-01-29 20:46:52,062 [WARNING] UTF-8 decode failed. Retrying with Latin-1...
+2026-01-29 20:46:52,084 [INFO] Loaded 118 records from tracxn.csv (Latin-1)
+2026-01-29 20:47:35,789 [INFO] Query: What does Razorpay do? | Entities: razorpay | FollowUp: False | Rows: 1
+2026-01-29 20:48:16,428 [INFO] Query: Tell me about fintech unicorns. | Entities: None | FollowUp: False | Rows: 28
+2026-01-29 20:48:30,592 [INFO] Query: Which of these are based in Bangalore? | Entities: None | FollowUp: True | Rows: 13
+2026-01-29 20:48:57,205 [INFO] Query: Which company is best to collaborate with? | Entities: None | FollowUp: False | Rows: 111
